@@ -1,7 +1,7 @@
 import firebase from 'firebase';
 
 var firebaseConfig = {
-    apiKey: "AIzaSyC_a2zswEdvwmIMG4iX-2qYQtGY5THS8Cw",
+    apiKey: "YOUR_FIREBASE_API_KEY",
     authDomain: "meal-prep-7305a.firebaseapp.com",
     databaseURL: "https://meal-prep-7305a.firebaseio.com",
     projectId: "meal-prep-7305a",
